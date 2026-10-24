@@ -1,3 +1,3 @@
 # WRO-California
 
-Code used during thew WRO California open championship.
+Code used during the WRO California open championship.
