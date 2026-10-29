@@ -1,3 +1,5 @@
+# Sorting program that processes scanned colors and returns a collection sequence
+
 # Color / station numbers
 YELLOW = 1
 BLUE   = 2
