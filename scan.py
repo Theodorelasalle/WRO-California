@@ -1,3 +1,4 @@
+# Scanning program on OpenMV that scans color tiles and feeds data to ESP32
 import sensor
 import time
 from machine import UART
