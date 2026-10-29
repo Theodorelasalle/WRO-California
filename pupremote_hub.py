@@ -1,3 +1,5 @@
+# program not made by myself. Data transfer module between the LEGO hub and other devices. Credits below.
+
 # Trimmed version of pupremote that only runs on Pybricks hubs
 # Includes async/multitask support for concurrent hub-side operations
 #
