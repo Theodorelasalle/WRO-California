@@ -1,3 +1,5 @@
+# Program that initiates calibration sequence on line sensor run from Lego hub. Moves robot around to calibrate automatically instead of manually.
+
 from pybricks.hubs import PrimeHub
 from pybricks.pupdevices import Motor, ColorSensor, UltrasonicSensor, ForceSensor
 from pybricks.parameters import Button, Color, Direction, Port, Side, Stop
